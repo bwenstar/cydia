@@ -1,0 +1,9 @@
+Origin: bwenstar's repo
+Label: bwenstar's repo
+Suite: stable
+Version: 1.0
+Codename: bwenstar
+ARchitectures: iphoneos-arm
+Components: main
+Description: bwenstar's repo
+MD5SUM:
